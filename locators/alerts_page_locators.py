@@ -12,7 +12,7 @@ class AlertPageLocators:
     AVAILABLE_LOCATIONS_OPTION = (By.CSS_SELECTOR, 'div[class="text-left item-li m15 p10"]')
     ADDED_LOCATIONS_OPTION = (By.CSS_SELECTOR, 'div[class="text-left item-li hover m15 p10"]')
     SAVE_BUTTON = (By.CSS_SELECTOR, 'button[class="btn btn-lg mr5 ml5 btn-success"]')
-
+    
     # RESULT
     ADD_ALERT_RESULT = (By.CSS_SELECTOR, 'div[class="ui-notification ng-scope success clickable"]')
 
